@@ -1,35 +1,5 @@
 # Unidad 1: Adopción de pautas de seguridad informática
 
-
-- Dimensiones de la seguridad de la información: confidencialidad, integridad y disponibilidad.
-- Elementos vulnerables en el sistema informático: hardware, software y datos.
-- Análisis de las principales vulnerabilidades de un sistema informático.
-- Ingeniería social y fraude electrónico:
-  - Características de la ingeniería social.
-  - Características del fraude electrónico y tipos.
-  - Buenas prácticas.
-  - Denunciar una estafa electrónica.
-- Amenazas. Tipos:
-  - Amenazas físicas.
-  - Amenazas lógicas.
-- Seguridad física y ambiental:
-  - Ubicación y protección física de los equipos y servidores.
-  - Sistemas de alimentación ininterrumpida.
-- Seguridad lógica:
-  - Criptografía. Tipos de criptosistemas y algoritmos.
-  - Cifrado de ficheros y unidades.
-  - Codificación.
-  - Listas de control de acceso.
-  - Establecimiento de políticas de contraseñas seguras.
-  - Gestores de contraseñas.
-  - Políticas de almacenamiento.
-  - Copias de seguridad e imágenes de respaldo.
-- Análisis forense en sistemas informáticos:
-  - Objetivos del análisis forense.
-  - Fases del análisis forense.
-  - Recolección, análisis y presentación de las evidencias.
-
-
 ## 1. Dimensiones de la seguridad de la información
 > “El único sistema seguro es aquel que está apagado y desconectado, enterrado en un refugio de hormigón, rodeado por gas venenoso y custodiado por guardianes bien pagados y muy bien armados. Aún así, yo no apostaría mi vida por él.” - *Eugene H. Spafford*
 
@@ -90,12 +60,38 @@ Amenazas comunes:
 - Fallo de hardware: Puede provocar pérdida de acceso a datos.
 - Errores de configuración: Pueden bloquear servicios esenciales.
 
-> Actividad 1.1: COnfidencialidad de los datos en Windows
+> Actividad 1.0: Instalación de máquinas virtuales
+
+> Actividad 1.1: Confidencialidad de los datos en Windows
 
 > Actividad 1.2:
 
 > Actividad 1.3:
 
 
-
-
+- Elementos vulnerables en el sistema informático: hardware, software y datos.
+- Análisis de las principales vulnerabilidades de un sistema informático.
+- Ingeniería social y fraude electrónico:
+  - Características de la ingeniería social.
+  - Características del fraude electrónico y tipos.
+  - Buenas prácticas.
+  - Denunciar una estafa electrónica.
+- Amenazas. Tipos:
+  - Amenazas físicas.
+  - Amenazas lógicas.
+- Seguridad física y ambiental:
+  - Ubicación y protección física de los equipos y servidores.
+  - Sistemas de alimentación ininterrumpida.
+- Seguridad lógica:
+  - Criptografía. Tipos de criptosistemas y algoritmos.
+  - Cifrado de ficheros y unidades.
+  - Codificación.
+  - Listas de control de acceso.
+  - Establecimiento de políticas de contraseñas seguras.
+  - Gestores de contraseñas.
+  - Políticas de almacenamiento.
+  - Copias de seguridad e imágenes de respaldo.
+- Análisis forense en sistemas informáticos:
+  - Objetivos del análisis forense.
+  - Fases del análisis forense.
+  - Recolección, análisis y presentación de las evidencias.
